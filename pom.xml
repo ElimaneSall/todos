@@ -14,7 +14,10 @@
     <name>todos</name>
     <description>Projet de todos </description>
 
-  
+  <properties>
+  <sonar.organization>elimanesall</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+   </properties>
 
 
     <dependencies>
